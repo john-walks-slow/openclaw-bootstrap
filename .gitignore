@@ -1,1 +1,3 @@
-# Nothing to ignore - all markdown files should be tracked
+# Personal files - don't sync
+91-user.md
+92-command-shorthands.md
